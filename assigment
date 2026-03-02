@@ -1,0 +1,14 @@
+
+class csci217{
+    int x=10;
+    void c(){
+        int x=12;
+        System.out.println(x);
+    }
+    public static void main(String[] args){
+       csci217 t= new csci217();
+       t. c();
+
+    }
+
+}
